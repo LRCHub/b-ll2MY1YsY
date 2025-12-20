@@ -1,74 +1,71 @@
-# Lizzo – About Damn Time
+# Scotty McCreery – Damn Strait
 
 > **歌詞登録ステータス：同期歌詞あり**
 
 ```lrc
-[00:00.19] Anyway-
-[00:03.69] 
-[00:10.13] It's bad bitch o'clock, yeah, it's thick:30
-[00:14.68] I've been through a lot, but I'm still flirty (okay)
-[00:19.25] Is everybody back up in the building?
-[00:21.12] It's been a minute, tell me how you're healing
-[00:23.51] 'Cause I'm about to get into my feelings
-[00:25.52] How you feeling? How you feel right now?
-[00:45.52] 
-[00:28.59] Oh, I've been so down and under pressure
-[00:34.28] I'm way too fine to be this stressed, yeah
-[00:37.45] Oh, I'm not the girl I was or used to be, uh
-[00:44.34] Bitch, I might be better
-[00:56.34] 
-[00:46.01] Turn up the music, turn down the lights
-[00:50.35] I've got a feeling I'm gon' be alright
-[00:53.70] Okay (okay), alright
-[00:57.48] It's about damn time (time)
-[00:58.96] Turn up the music, let's celebrate (alright)
-[01:03.38] I've got a feeling I'm gon' be okay
-[01:06.95] Okay (okay), alright
-[01:10.58] It's about damn time
-[01:20.58] 
-[01:12.02] In a minute, I'ma need a sentimental
-[01:14.55] Man or woman to pump me up
-[01:16.46] Feeling fussy, walking in my Balenci-ussies
-[01:18.82] Tryna bring out the fabulous
-[01:20.75] 'Cause I give a fuck way too much
-[01:23.05] I'ma need, like, two shots in my cup
-[01:25.23] Wanna get up, wanna get down
-[01:27.48] Mmh, that's how I feel right now
-[01:43.48] 
-[01:30.24] Oh, I've been so down and under pressure
-[01:36.09] I'm way too fine to be this stressed, yeah
-[01:39.02] Oh, I'm not the girl I was or used to be, uh
-[01:45.84] Bitch, I might be better
-[01:57.84] 
-[01:47.68] Turn up the music, turn down the lights
-[01:52.05] I've got a feeling I'm gon' be alright
-[01:55.53] Okay (okay), alright
-[01:59.03] It's about damn time (time)
-[02:00.99] Turn up the music, let's celebrate (alright)
-[02:05.16] I've got a feeling I'm gon' be okay
-[02:08.65] Okay (okay), alright
-[02:12.37] It's about damn time (bitch!)
-[02:26.87] 
-[02:19.62] 'Cause, uh, you know what time it is, uh
-[02:22.81] I'm coming out tonight
-[02:24.31] I'm coming out tonight (uh-huh)
-[02:27.24] I'm coming out tonight
-[02:28.56] I'm coming out tonight (ooh)
-[02:31.42] I'm coming out tonight
-[02:33.12] I'm coming out tonight
-[02:35.13] Okay (okay), alright (alright)
-[02:38.71] It's about damn time (ooh)
-[02:51.71] 
-[02:40.37] I'm coming out tonight (let's go)
-[02:41.92] I'm coming out tonight (coming out tonight)
-[02:44.63] I'm coming out tonight
-[02:46.43] I'm coming out tonight (ooh)
-[02:49.18] I'm coming out tonight
-[02:50.75] I'm coming out tonight (coming out tonight)
-[02:53.09] Okay (okay), alright
-[02:56.34] It's about damn time (oh-oh-oh-oh)
-[03:13.34] 
-[03:00.69] Bitch
-[03:03.07] Yeah, yeah
-[03:05.18] It's about damn time
+[00:17.22] "Nobody In His Right Mind Would've Left Her"
+[00:22.47] That was her favorite song
+[00:25.31] She sang along every time it came on
+[00:43.31] 
+[00:30.83] First time we danced was to Marina Del Rey
+[00:35.52] And I fell right there and then
+[00:38.94] I didn't want that song to end
+[00:53.94] 
+[00:43.41] Baby blue was the color of her eyes
+[00:47.64] I can still see them in my mind
+[00:51.18] Probably will for the rest of my life
+[01:09.68] 
+[00:55.90] Damn Strait, you're killing me man
+[00:59.98] You know I've always been your biggest fan
+[01:03.28] Now I can't even listen
+[01:05.05] 'Cause I'll get to missin' her
+[01:07.24] Then the hurt gets worse
+[01:19.24] 
+[01:09.50] Damn Strait, I used to love your songs
+[01:13.44] But now every time that one comes on
+[01:16.51] My heart gets broke in half
+[01:19.19] But do I wish I could get her back?
+[01:22.95] Damn Strait
+[01:28.45] 
+[01:30.52] The other day right out of a blue clear sky
+[01:35.62] You came on in my truck
+[01:38.84] I couldn't turn it off fast enough
+[01:55.84] 
+[01:43.88] I tried to get back in the game
+[01:47.74] But this ole heart just ain't the same
+[01:51.18] Hell I can't even give it away
+[02:06.18] 
+[01:56.04] Damn Strait, you're killing me man
+[02:00.14] You know I've always been your biggest fan
+[02:03.19] Now I can't even listen
+[02:05.19] 'Cause I'll get to missin' her
+[02:07.25] Then the hurt gets worse
+[02:19.25] 
+[02:09.54] Damn Strait, I used to love your songs
+[02:13.31] But now every time that one comes on
+[02:16.63] My heart gets broke in half
+[02:19.36] But do I wish I could get her back?
+[02:22.75] Damn Strait
+[02:28.25] 
+[02:30.55] I know it ain't your fault
+[02:32.30] That she left me
+[02:34.26] And you know you'll always be the king
+[02:37.60] But right now, I hate everything
+[02:53.60] 
+[02:42.80] Damn Strait, you're killing me man
+[02:46.76] You know I've always been your biggest fan
+[02:49.88] Now I can't even listen
+[02:51.97] 'Cause I'll get to missin' her
+[02:53.72] Then the hurt gets worse
+[03:05.72] 
+[02:56.22] Damn Strait, I used to love your songs
+[03:00.07] But now every time that one comes on
+[03:03.36] My heart gets broke in half
+[03:06.04] But do I wish I could get her back?
+[03:09.46] Damn Strait
+[03:16.21] Damn Strait
+[03:21.71] 
+[03:30.86] "Nobody In His Right Mind Would've Left Her"
+[03:35.68] That was her favorite song
+[03:39.06] She sang along every time it came on
 ```
